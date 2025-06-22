@@ -27,60 +27,66 @@
   <thead>
     <tr>
       <th>프로필</th>
-      <th>이름</th>
-      <th>포지션</th>
+      <th>이름(포지션) - 작업 내역</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td rowspan="2" style="vertical-align: top;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic1.png?raw=true" alt="송용훈" width="50" height="50" />
       </td>
-      <td><a href="https://github.com/yonghun16">송용훈</a></td>
-      <td>FE</td>
+      <td><a href="https://github.com/yonghun16">송용훈</a> (FE)</td>
+    </tr>
+     <tr>
+      <td colspan="2">회원가입, 로그인, 내프로필 페이지 및 백엔드 통신 로직</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="vertical-align: top;">
+        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic2.png?raw=true" alt="이동현" width="50" height="50" />
+      </td>
+      <td><a href="https://github.com/soohofather">이동현</a> (BE)</td>
+    </tr>
       <tr>
-        <td>회원가입, 로그인, 내프로필 페이지 및 백엔드 통신 로직</td>
+        <td colspan="2">상품 업로드, 상품 목록 출력, 검색, 필터 등 상품 관련 백엔드 로직, 이미지 압축, 상품 DB 구조 설계</td>
       </tr>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td>
-        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic2.png?raw=true" alt="이동현" width="50" height="50" />
-      </td>
-      <td><a href="https://github.com/soohofather">이동현</a></td>
-      <td>BE</td>
-      <td>상품 업로드, 상품 목록 출력, 검색, 필터 등 상품 관련 백엔드 로직, 이미지 압축, 상품 DB 구조 설계</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
+      <td rowspan="2" style="vertical-align: top;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic4.png?raw=true" alt="노인영" width="50" height="50" />
       </td>
-      <td><a href="https://github.com/ines2131/">노인영</a></td>
-      <td>FE</td>
-      <td>상품 업로드, 장바구니, 결제내역 페이지 및 백엔드 통신 로직</td>
+      <td><a href="https://github.com/ines2131/">노인영</a> (FE)</td>
+    </tr>
+     <tr>
+       <td colspan="2">상품 업로드, 장바구니, 결제내역 페이지 및 백엔드 통신 로직</td>
+     </tr>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td>
+      <td rowspan="2" style="vertical-align: top;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic3.png?raw=true" alt="이정관" width="50" height="50" />
       </td>
-      <td><a href="https://github.com/ines2131/">이정관</a></td>
-      <td>FE</td>
-      <td>상품 목록, 상품 자세히 보기 페이지 및 백엔드 통신 로직</td>
+      <td><a href="https://github.com/ines2131/">이정관</a> (FE)</td>
+    </tr>
+      <tr>
+        <td colspan="2">상품 목록, 상품 자세히 보기 페이지 및 백엔드 통신 로직</td>
+      </tr>
     </tr>
   </tbody>
   <tbody>
     <tr>
-      <td>
+      <td rowspan="2" style="vertical-align: top;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic5.png?raw=true" alt="이세준" width="50" height="50" />
       </td>
-      <td><a href="https://github.com/ines2131/">이세준</a></td>
-      <td>BE</td>
-      <td>회원가입, 로그인, 장바구니 등 유저 관련 백엔드 로직, 유저 DB 구조 설계, AI 고객센터</td>
+      <td><a href="https://github.com/ines2131/">이세준</a> (BE)</td>
+    </tr>
+      <tr>
+        <td colspan="2">회원가입, 로그인, 장바구니 등 유저 관련 백엔드 로직, 유저 DB 구조 설계, AI 고객센터</td>
+      </tr>
     </tr>
   </tbody>
 </table>
