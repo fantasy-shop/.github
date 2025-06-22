@@ -1,2 +1,105 @@
-# fantasy-shop
-판타지 쇼핑몰
+# 🗡️ Fantasy Shop 🏹
+
+<div align="center">
+<img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/title.png?raw=true" alt="판타지샵" height="400px" />
+</div>
+
+## 🧙 프로젝트 개요
+![project_period](https://img.shields.io/badge/Project%20Period-2025--06--09%20~%202025--06--23-6366F1)<br>
+
+이 프로젝트는 판타지 세계를 배경으로 한 **가상의 온라인 무기 상점**입니다.
+
+사용자는 마법 지팡이, 전설의 검, 방패, 활 등 다양한 판타지 아이템을 탐색하고 장바구니에 담아 구매할 수 있습니다.
+
+관리자는 상품 정보를 등록·수정·삭제할 수 있으며, 사용자 구매 흐름과 프로필 관리 기능도 포함되어 있습니다.
+
+## 🏡 배포
+
+> [yonghun16.duckdns.org/fantasyshop](yonghun16.duckdns.org/fantasyshop)
+
+테스트 계정
+
+- ID: guest@guest.com
+- PW: guest12
+
+## 💁🏻 팀원
+<table>
+  <thead>
+    <tr>
+      <th>프로필</th>
+      <th>이름</th>
+      <th>포지션</th>
+      <th>담당작업</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic1.png?raw=true" alt="송용훈" width="50" height="50" />
+      </td>
+      <td><a href="https://github.com/yonghun16">송용훈</a></td>
+      <td>FE</td>
+      <td>회원가입, 로그인, 내프로필 페이지 및 백엔드 통신 로직</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic2.png?raw=true" alt="이동현" width="50" height="50" />
+      </td>
+      <td><a href="https://github.com/soohofather">이동현</a></td>
+      <td>BE</td>
+      <td>상품 업로드, 상품 목록 출력, 검색, 필터 등 상품 관련 백엔드 로직, 이미지 압축, 상품 DB 구조 설계</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic4.png?raw=true" alt="노인영" width="50" height="50" />
+      </td>
+      <td><a href="https://github.com/ines2131/">노인영</a></td>
+      <td>FE</td>
+      <td>상품 업로드, 장바구니, 결제내역 페이지 및 백엔드 통신 로직</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic3.png?raw=true" alt="이정관" width="50" height="50" />
+      </td>
+      <td><a href="https://github.com/ines2131/">이정관</a></td>
+      <td>FE</td>
+      <td>상품 목록, 상품 자세히 보기 페이지 및 백엔드 통신 로직</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic5.png?raw=true" alt="이세준" width="50" height="50" />
+      </td>
+      <td><a href="https://github.com/ines2131/">이세준</a></td>
+      <td>BE</td>
+      <td>회원가입, 로그인, 장바구니 등 유저 관련 백엔드 로직, 유저 DB 구조 설계, AI 고객센터</td>
+    </tr>
+  </tbody>
+</table>
+
+## 🌈 기술 스택
+### Front
+- **언어** : <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
+- **라이브러리** : <!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a>
+- **상태 관리** : <!-- Reducx --><a href="https://react-redux.js.org"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /></a>
+- **스타일링** : <!-- Tailwind CSS --><a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a>
+- **번들링** : ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+- **배포** : ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+- **기타** : 
+### Front
+- **언어** :
+- **프레임워크** :
+- **상태 관리** :
+- **스타일링** :
+- **번들링** :
+- **배포** :
+- **기타** : 
+
+
