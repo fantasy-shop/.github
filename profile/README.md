@@ -108,3 +108,18 @@
 - **배포** : <!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a> <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a> 
 
 
+## 🥁 기능 소개
+
+### 📍 로그인 및 회원가입
+### 📍 메인 상품 보기 & 검색 & 정렬
+### 📍 상품 상세 보기
+### 📍 장바구니 & 결제
+### 📍 상품 등록 
+### 📍 상품 삭제
+### 📍 반응형(PWA)
+
+## 🧨 바로 가기
+- [Notion](https://www.notion.so/Fantay-Shop-2063cf3a67fb8019bfd3c6c420803544?pvs=18&qid=&origin=)
+- [Architecture Diagram](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/architecture_diagram.png)
+- [Use Case](https://editor.plantuml.com/uml/VPB1Rjf048Rl-nIZdDf39AynZgaY5AdFq0T0uBP812GmTmfKfKgbqZQeKGB8758fbIkvgQluq2VQ7Rz3DmgBZGVxP7c-__zdHZjd0w_HzuRd7TPnNtlWzQ3VVlFMWrQxxpQzTg_BMAFfzVg0um2lxt0zt_wBQ2H_18__R3Xmcus12qV9zIUycOC8HxX-VmID0RnwQV2KoyrIFCIuYZKpKuQJTydN6SYVTtAp0lad4d6ePHKYKn-SnZcPbP6jRsLuAVu6ycA6t-UWqo-o-kfXVIxLBb3Xx0hznLR5CoEA-n3zPRAuoeGuP0DnFyB9Hv3XPr0nqWzqaf5AvJY2v78gDofjgcHVnCC_BUFvXe2hIFgt-zFpauAqtFWMUQJ556yc6bV96oUJMV8Xqjmkd_dPxbYUQuTJ_l8773NYKFChzVucfa5bur_eBpNdjF6ttwgnvYPZkrE7u-FwqmcJaabB5LgoIObpndQxwPf3IpN67YDra0KluFIqtMrsXYstNjzZrMB63Sgi4f-jVPLYPZWvfY3dsdX2Z2cpIbYrXDcqeU7GXkaqjIqqwVefumUCZePc7fwvtTRmlFCV)
+- [ERD](https://www.erdcloud.com/team/dfXYTu9t8z52mcGcr)
