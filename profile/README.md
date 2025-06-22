@@ -96,7 +96,7 @@
 ### Backend
 - **언어** : <!-- Java --><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" /></a>
 - **프레임워크** : <!-- Spring --><a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /></a>
-- **데이터베이스** : <!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a>
+- **데이터베이스** : <!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a> <img src="https://img.shields.io/badge/Query_DSL-79E1F4?style=flat&logo=Query_DSL&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=flat&logo=Spring_SPA&logoColor=white" />
 - **빌드**
 - **배포** : <!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a> <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a> 
 - **RESTful API** : 
