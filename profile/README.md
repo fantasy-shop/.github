@@ -26,7 +26,7 @@
 <table>
   <thead>
     <tr>
-      <th style="white-space: nowrap;">&nbsp;&nbsp;&nbsp;프로필&nbsp;&nbsp;&nbsp;</th>
+      <th style="white-space: nowrap;">프로필&nbsp;&nbsp;&nbsp;&nbsp;</th>
       <th>이름(포지션) - 작업 내역</th>
     </tr>
   </thead>
