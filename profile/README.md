@@ -1,7 +1,7 @@
 # 🗡️ Fantasy Shop 🏹
 
 <div align="center">
-<img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/title.png?raw=true" alt="판타지샵" height="400px" />
+<img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/title.png?raw=true" alt="판타지샵" />
 </div>
 
 ## 🧙 프로젝트 개요
@@ -29,7 +29,6 @@
       <th>프로필</th>
       <th>이름</th>
       <th>포지션</th>
-      <th>담당작업</th>
     </tr>
   </thead>
   <tbody>
@@ -39,7 +38,9 @@
       </td>
       <td><a href="https://github.com/yonghun16">송용훈</a></td>
       <td>FE</td>
-      <td>회원가입, 로그인, 내프로필 페이지 및 백엔드 통신 로직</td>
+      <tr>
+        <td>회원가입, 로그인, 내프로필 페이지 및 백엔드 통신 로직</td>
+      </tr>
     </tr>
   </tbody>
   <tbody>
