@@ -84,7 +84,7 @@
   </tbody>
 </table>
 
-## 🌈 기술 스택
+## ⚙️ 기술 스택
 ### Frontend
 - **언어** : <!-- JavaScript --><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
 - **라이브러리** : <!-- React --><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a>
@@ -95,10 +95,9 @@
 - **기타** : <!-- React Router --><a href="https://reactrouter.com"><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=React%20router&logoColor=white" /></a> <!-- React Query --><a href="https://tanstack.com/query/latest"><img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=React%20query&logoColor=white" /></a> <!-- React Hook Form --><a href="https://react-hook-form.com"><img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=React%20hook%20form&logoColor=white" /></a> <a href="https://postcode.map.daum.net/guide"><img src="https://img.shields.io/badge/Kakao_Address_API-FEE500?style=flat&logo=kakao&logoColor=white" /></a>
 ### Backend
 - **언어** : <!-- Java --><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-3D82A1?style=flat&logo=Conda-Forge&logoColor=white" /></a>
-- **프레임워크** : <!-- Spring --><a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" /></a>
-- **데이터베이스** : <!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a> <img src="https://img.shields.io/badge/Query_DSL-79E1F4?style=flat&logo=Query_DSL&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=flat&logo=Spring_SPA&logoColor=white" />
-- **빌드**
+- **프레임워크** : <!-- Spring Boot --><a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /></a> 
+- **데이터베이스** : <!-- MySQL --><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" /></a> <img src="https://img.shields.io/badge/Query_DSL-79E1F4?style=flat&logo=Query_DSL&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=flat&logo=Spring_SPA&logoColor=white" /> <!-- Redis --><a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white" /></a>
+- **빌드** : <!-- Gradle --><a href="https://gradle.org"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" /></a>
 - **배포** : <!-- NGINX --><a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /></a> <!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a> 
-- **RESTful API** : 
 
 
