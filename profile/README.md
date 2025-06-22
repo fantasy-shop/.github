@@ -1,4 +1,4 @@
-# 🗡️ Fantasy Shop 🏹
+# 🗡️ Fantasy Shop
 
 <div align="center">
 <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/title.png?raw=true" alt="판타지샵" />
@@ -32,7 +32,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top;">
+      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic1.png?raw=true" alt="송용훈" width="50" height="50" />
       </td>
       <td><a href="https://github.com/yonghun16">송용훈</a> (FE)</td>
@@ -43,7 +43,7 @@
   </tbody>
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top;">
+      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic2.png?raw=true" alt="이동현" width="50" height="50" />
       </td>
       <td><a href="https://github.com/soohofather">이동현</a> (BE)</td>
@@ -55,7 +55,7 @@
   </tbody>
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top;">
+      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic4.png?raw=true" alt="노인영" width="50" height="50" />
       </td>
       <td><a href="https://github.com/ines2131/">노인영</a> (FE)</td>
@@ -67,7 +67,7 @@
   </tbody>
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top;">
+      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic3.png?raw=true" alt="이정관" width="50" height="50" />
       </td>
       <td><a href="https://github.com/ines2131/">이정관</a> (FE)</td>
@@ -79,7 +79,7 @@
   </tbody>
   <tbody>
     <tr>
-      <td rowspan="2" style="vertical-align: top;">
+      <td rowspan="2" style="vertical-align: top; min-width: 50px;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic5.png?raw=true" alt="이세준" width="50" height="50" />
       </td>
       <td><a href="https://github.com/ines2131/">이세준</a> (BE)</td>
