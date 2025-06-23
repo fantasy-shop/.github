@@ -85,7 +85,7 @@
       <td><a href="https://github.com/ines2131/">이세준</a> (BE)</td>
     </tr>
       <tr>
-        <td colspan="2">회원가입, 로그인, 장바구니 등 유저 관련 백엔드 로직, 유저 DB 구조 설계, AI 고객센터</td>
+        <td colspan="2">회원가입, 로그인, 장바구니 등 유저 관련 백엔드 로직, 유저 DB 구조 설계, 서버 인프라, AI 고객센터</td>
       </tr>
     </tr>
   </tbody>
