@@ -111,12 +111,20 @@
 ## 🧩 기능 소개
 
 ### 🔑 로그인 및 회원가입
+![로그인_회원가입](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/login.gif?raw=true)
 ### 🛍️ 메인 상품 보기 & 검색 & 정렬
+![검색_정렬](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/filter.gif?raw=true)
 ### 👀 상품 상세 보기
+![상품_상세보기](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/detail.gif?raw=true)
 ### 🛒 장바구니 & 결제
-### ✏️ 상품 등록 
-### 🗑️ 상품 삭제
+![장바구니](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/cart.gif?raw=true)
+### ✏️ 상품 등록 & 수정 & 삭제 
+![상품](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/adddel.gif?raw=true)
 ### 📲 반응형(PWA)
+![반응형](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/mobile.gif?raw=true)
+
+## 🧩 성능 테스트
+![성능](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/lighthouse.png?raw=true)
 
 ## 🔗 바로 가기
 - [Notion](https://www.notion.so/Fantay-Shop-2063cf3a67fb8019bfd3c6c420803544?pvs=18&qid=&origin=)
