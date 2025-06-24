@@ -15,7 +15,7 @@
 
 ## 📦 배포
 
-> [yonghun16.duckdns.org/fantasyshop](yonghun16.duckdns.org/fantasyshop)
+> [yonghun16.duckdns.org/fantasyshop](https://yonghun16.duckdns.org/fantasyshop)
 
 테스트 계정
 
@@ -70,7 +70,7 @@
       <td rowspan="2" style="vertical-align: top; min-width: 50px;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic3.png?raw=true" alt="이정관" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
-      <td><a href="https://github.com/ines2131/">이정관</a> (FE)</td>
+      <td><a href="https://github.com/LEEJUNGKWAN1">이정관</a> (FE)</td>
     </tr>
       <tr>
         <td colspan="2">상품 목록, 상품 자세히 보기 페이지 및 백엔드 통신 로직</td>
@@ -82,10 +82,10 @@
       <td rowspan="2" style="vertical-align: top; min-width: 50px;">
         <img src="https://github.com/fantasy-shop/.github/blob/main/profile/project_info/pic5.png?raw=true" alt="이세준" style="min-width: 50px; width:60px; height: 60px;" />
       </td>
-      <td><a href="https://github.com/ines2131/">이세준</a> (BE)</td>
+      <td><a href="https://github.com/hello22433/">이세준</a> (BE)</td>
     </tr>
       <tr>
-        <td colspan="2">회원가입, 로그인, 장바구니 등 유저 관련 백엔드 로직, 유저 DB 구조 설계, AI 고객센터</td>
+        <td colspan="2">회원가입, 로그인, 장바구니 등 유저 관련 백엔드 로직, 유저 DB 구조 설계, 서버 인프라, AI 고객센터</td>
       </tr>
     </tr>
   </tbody>
@@ -111,12 +111,20 @@
 ## 🧩 기능 소개
 
 ### 🔑 로그인 및 회원가입
+![로그인_회원가입](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/login.gif?raw=true)
 ### 🛍️ 메인 상품 보기 & 검색 & 정렬
+![검색_정렬](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/filter.gif?raw=true)
 ### 👀 상품 상세 보기
+![상품_상세보기](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/detail.gif?raw=true)
 ### 🛒 장바구니 & 결제
-### ✏️ 상품 등록 
-### 🗑️ 상품 삭제
+![장바구니](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/cart.gif?raw=true)
+### ✏️ 상품 등록 & 수정 & 삭제 
+![상품](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/adddel.gif?raw=true)
 ### 📲 반응형(PWA)
+![반응형](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/mobile.gif?raw=true)
+
+## 🧩 성능 테스트
+![성능](https://github.com/fantasy-shop/.github/blob/main/profile/project_info/lighthouse.png?raw=true)
 
 ## 🔗 바로 가기
 - [Notion](https://www.notion.so/Fantay-Shop-2063cf3a67fb8019bfd3c6c420803544?pvs=18&qid=&origin=)
